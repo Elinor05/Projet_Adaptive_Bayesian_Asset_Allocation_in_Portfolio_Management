@@ -1,0 +1,2 @@
+# Projet_Adaptive_Bayesian_Asset_Allocation_in_Portfolio_Management
+Revisiting the Black–Litterman Model with a Multivariate Kalman Filtering Framework
